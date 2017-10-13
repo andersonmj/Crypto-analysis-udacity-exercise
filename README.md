@@ -1,2 +1,2 @@
-# Crypto-analysis-udacity-exercise
-Exercise counting digits and frequency
+# Basic Crypto analysis
+This is a Udacity Intro to CS exercise. It counting digits and frequency, and explores the basics of doing a crypto analysis. 
